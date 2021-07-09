@@ -15,6 +15,7 @@ require (
 	github.com/lib/pq v0.0.0-20170810061220-e42267488fe3
 	github.com/magefile/mage v1.10.0
 	github.com/mattn/go-runewidth v0.0.2 // indirect
+	github.com/mattn/go-sqlite3 v1.14.7
 	github.com/natefinch/gocog v0.0.0-20170818170132-3af1fb832aae // indirect
 	github.com/olekukonko/tablewriter v0.0.0-20170719101040-be5337e7b39e
 	github.com/pkg/browser v0.0.0-20170505125900-c90ca0c84f15
