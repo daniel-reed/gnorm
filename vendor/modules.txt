@@ -1,0 +1,42 @@
+# github.com/BurntSushi/toml v0.3.0
+github.com/BurntSushi/toml
+# github.com/andreyvit/diff v0.0.0-20170406064948-c7f18ee00883
+github.com/andreyvit/diff
+# github.com/codemodus/kace v0.5.0
+github.com/codemodus/kace
+github.com/codemodus/kace/ktrie
+# github.com/go-sql-driver/mysql v1.3.0
+github.com/go-sql-driver/mysql
+# github.com/google/go-cmp v0.1.0
+github.com/google/go-cmp/cmp
+github.com/google/go-cmp/cmp/internal/diff
+github.com/google/go-cmp/cmp/internal/function
+github.com/google/go-cmp/cmp/internal/value
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/jinzhu/inflection v1.0.0
+github.com/jinzhu/inflection
+# github.com/lib/pq v0.0.0-20170810061220-e42267488fe3
+github.com/lib/pq
+github.com/lib/pq/oid
+# github.com/magefile/mage v1.10.0
+github.com/magefile/mage/mg
+github.com/magefile/mage/sh
+# github.com/mattn/go-runewidth v0.0.2
+github.com/mattn/go-runewidth
+# github.com/olekukonko/tablewriter v0.0.0-20170719101040-be5337e7b39e
+github.com/olekukonko/tablewriter
+# github.com/pkg/browser v0.0.0-20170505125900-c90ca0c84f15
+github.com/pkg/browser
+# github.com/pkg/errors v0.8.0
+github.com/pkg/errors
+# github.com/rakyll/statik v0.1.1
+github.com/rakyll/statik/fs
+# github.com/sergi/go-diff v1.1.0
+github.com/sergi/go-diff/diffmatchpatch
+# github.com/spf13/cobra v0.0.0-20170905172051-b78744579491
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.0
+github.com/spf13/pflag
+# gopkg.in/yaml.v2 v2.2.4
+gopkg.in/yaml.v2
